@@ -22,7 +22,6 @@
 
 <h1 align="center">
   <img alt="Screen" src="src/assets/screen.png" width="400px">
-  <img alt="Screen" src="src/assets/videoscreen.mp4" width="400px">
 </h1>
 
 🌥️A weather app where the user gets the region's weather data based on their location, using the openweathermap API
