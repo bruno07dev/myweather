@@ -59,7 +59,7 @@ Technologies that I used to develop this mobile client
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/bruno07dev/myweatherapp.git && cd myweatherapp
+$ git clone https://github.com/bruno07dev/myweather.git && cd myweather
 ```
 
 **Follow the steps below**
@@ -87,14 +87,14 @@ $ yarn ios
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork bruno07dev/myweatherapp
+$ gh repo fork bruno07dev/myweather
 ```
 
 **Follow the steps below**
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd myweatherapp
+$ git clone your-fork-url && cd myweather
 
 # Create a branch with your feature
 $ git checkout -b my-feature
